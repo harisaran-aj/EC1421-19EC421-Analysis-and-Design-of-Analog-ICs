@@ -2,8 +2,9 @@
 # Simulation of Instrumentation Amplifier
 
 ## AIM:
-To Design and simulate a inverting, non- inverting and differential amplifiers using LT-Spice.
 
+ To Design and simulate the Instrumentation amplifier circuit using LT-Spice.
+ 
 ## SOFTWARE REQUIRED:
 LT-Spice
 
