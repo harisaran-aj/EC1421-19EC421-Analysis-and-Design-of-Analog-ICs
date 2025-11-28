@@ -21,9 +21,13 @@ obtained.
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-11-28 at 23 38 45_c6b52776](https://github.com/user-attachments/assets/f5c9329b-f800-4165-bd17-df4ecc291c60)
+
 
 
 ## OUTPUT GRAPH:
+
+![WhatsApp Image 2025-11-28 at 23 38 45_7dd3231d](https://github.com/user-attachments/assets/651e1fe0-b185-47cd-b742-7af718ee554e)
 
 
 ## RESULT:
